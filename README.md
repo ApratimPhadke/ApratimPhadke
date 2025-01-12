@@ -21,8 +21,8 @@ I’m passionate about exploring both Hardware and Software technologies. From l
 - Open-source contributions to innovative technologies  
 
 📫 How to Reach Me:
-- LinkedIn: [Apratim Phadke](#)  
-- Email: your-email@example.com  
+- LinkedIn: www.linkedin.com/in/apratim-phadke-966816223
+- Email: apratimphadkeprime@gmail.com
 
 😄 Pronouns: He/Him  
 
