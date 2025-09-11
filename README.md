@@ -21,6 +21,7 @@ I'm a **3rd-year Electronics and Telecommunication Engineering student** at, pas
 
 ### 💻 Programming Languages
 ![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
+![System Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![HDL](https://img.shields.io/badge/HDL-4CAF50?style=for-the-badge&logo=hardware&logoColor=white)
@@ -61,7 +62,7 @@ I'm a **3rd-year Electronics and Telecommunication Engineering student** at, pas
 - **🔬 On-chip LLM Research**: Investigating feasibility of large language models on custom silicon
 
 ### 🎓 Academic Excellence
-- **📚 IEEE VIIT Student Branch**: General Manager position demonstrating leadership
+- **📚 IEEE VIIT Student Branch**: General Manager position 
 - **🏆 Hackathon Participation**: Active participant in competitive programming events
 - **📖 Technical Documentation**: Comprehensive README files and project documentation
 
@@ -72,12 +73,6 @@ I'm a **3rd-year Electronics and Telecommunication Engineering student** at, pas
 - **Renewable Energy Integration**: Hosting capacity analysis in distribution feeders
 - **ARM SoC Architecture**: Advanced system-on-chip design methodologies
 - **AI Accelerator Design**: Custom hardware for machine learning workloads
-
-### 📚 Learning Path
-- **Advanced Python for VLSI**: Automation and tool development
-- **Network Theory & Analog Electronics**: Strengthening fundamentals
-- **Data Structures & Algorithms**: Software engineering skills
-- **Technical Communication**: Industry-ready project presentations
 
 ## 🌟 What Makes Me Unique
 
