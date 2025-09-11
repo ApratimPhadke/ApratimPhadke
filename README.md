@@ -202,7 +202,7 @@ endmodule
 
 ### 🏆 **Achievement Highlights**
 
-[![](https://img.shields.io/badge/Total_Commits-1200+-00D9FF?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ApratimPhadke)
+[![](https://img.shields.io/badge/Total_Commits-150+-00D9FF?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ApratimPhadke)
 [![](https://img.shields.io/badge/Projects_Completed-25+-FF6B35?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/ApratimPhadke)
 [![](https://img.shields.io/badge/Lines_of_Code-50K+-4CAF50?style=for-the-badge&logo=code&logoColor=white)](https://github.com/ApratimPhadke)
 [![](https://img.shields.io/badge/Open_Source-Contributor-9C27B0?style=for-the-badge&logo=opensource&logoColor=white)](https://github.com/ApratimPhadke)
@@ -321,7 +321,7 @@ research_pipeline = {
 
 [![GitHub Streak](https://img.shields.io/badge/Current_Streak-45_Days-FF6B35?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/ApratimPhadke)
 [![Target Streak](https://img.shields.io/badge/Target_Streak-100_Days-00D9FF?style=for-the-badge&logo=target&logoColor=white)](https://github.com/ApratimPhadke)
-[![Commits This Year](https://img.shields.io/badge/2024_Commits-800+-4CAF50?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ApratimPhadke)
+[![Commits This Year](https://img.shields.io/badge/2024_Commits-high-4CAF50?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ApratimPhadke)
 
 </div>
 
