@@ -339,6 +339,6 @@ research_pipeline = {
 
 **🚀 Ready to revolutionize the intersection of AI and hardware engineering!**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ApratimPhadke&icon=5&color=6)](https://github.com/ApratimPhadke)
+[![Profile Views](https://visitcount.itsvg.in/api?id=ApratimPhadke&icon=6&color=6)](https://github.com/ApratimPhadke)
 
 </div>
