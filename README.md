@@ -1,14 +1,14 @@
-# Hi there, I'm a VLSI & Hardware Engineer! 👋
+# Hi there, I'm a Hardware Engineer! 👋
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=VLSI+Design+%26+Hardware+Engineering;AI-Hardware+Integration+Enthusiast;Open+Source+EDA+Tools+Developer;Electronics+%26+Telecom+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=VLSI+Design+%26+Hardware+Engineering;AI-Hardware+Integration+Enthusiast;Electronics+%26+Telecom+Engineering)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a **3rd-year Electronics and Telecommunication Engineering student** at **VIIT Pune**, passionate about pushing the boundaries of hardware design and AI integration. My journey spans from low-level hardware description languages to cutting-edge machine learning applications in chip design.
+I'm a **3rd-year Electronics and Telecommunication Engineering student** at, passionate about pushing the boundaries of hardware design and AI integration. My journey spans from low-level hardware description languages to cutting-edge machine learning applications in chip design.
 
 - 🔬 **Current Focus**: VLSI Design, AI-Hardware Integration, and Open Source EDA Tools
 - 🎯 **Career Goal**: Bridging the gap between traditional hardware design and modern AI acceleration
@@ -22,7 +22,7 @@ I'm a **3rd-year Electronics and Telecommunication Engineering student** at **VI
 ### 💻 Programming Languages
 ![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/8051_Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![HDL](https://img.shields.io/badge/HDL-4CAF50?style=for-the-badge&logo=hardware&logoColor=white)
 
 ### 🔧 VLSI & EDA Tools
