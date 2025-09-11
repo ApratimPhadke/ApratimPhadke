@@ -1,5 +1,4 @@
 
-```markdown
 # 👋 Hi there, I'm Apratim — Hardware & VLSI Engineer  
 
 <div align="center">
@@ -9,8 +8,6 @@
 <img src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/main/assets/banner.png" alt="Banner" width="100%" />
 
 </div>
-
----
 
 ## 🚀 About Me  
 
@@ -23,7 +20,6 @@ I'm **Apratim Phadke**, an **Electronics & Telecommunication Engineering student
 - 📍 **Based in**: Pune, India  
 - 🎓 **Leadership**: General Manager, IEEE VIIT Student Branch  
 
----
 
 ## 🛠️ Technical Arsenal  
 
@@ -35,14 +31,12 @@ I'm **Apratim Phadke**, an **Electronics & Telecommunication Engineering student
 
 </div>
 
----
 
 ## 🏗️ Projects & Achievements  
 
 <div align="center">
 
 ### 🔥 VLSI Projects  
-```
 
 ⚡ 8-bit Microprocessor (Fetch–Decode–Execute)
 ⚡ 5-Stage Instruction Pipeline
@@ -50,28 +44,23 @@ I'm **Apratim Phadke**, an **Electronics & Telecommunication Engineering student
 ⚡ AXI-lite Interconnect
 ⚡ AES S-box Hardware
 
-```
 
 ### 🤖 AI-Hardware Integration  
-```
 
 🧠 Neural Processor Architecture (Research)
 🔬 On-chip LLM Feasibility Studies
 
-```
+
 
 ### 🎓 Leadership & Recognition  
-```
 
 📚 IEEE VIIT GM
 🏆 Hackathon Participant
 📖 Technical Documentation Expert
 
-````
 
 </div>
 
----
 
 ## 📈 Research & Exploration  
 
@@ -82,7 +71,7 @@ I'm **Apratim Phadke**, an **Electronics & Telecommunication Engineering student
 - **ARM SoC Architectures** → Design & verification  
 - **AI Accelerators** → Custom silicon for ML  
 
----
+
 
 ## 🌟 My Engineering DNA  
 
@@ -104,7 +93,6 @@ end
 endmodule
 ````
 
----
 
 ## 📊 GitHub Stats
 
@@ -116,7 +104,6 @@ endmodule
 
 </div>
 
----
 
 ## 📌 Featured Projects
 
@@ -129,7 +116,7 @@ endmodule
   </a>
 </p>
 
----
+
 
 ## 🤝 Let’s Connect
 
@@ -146,7 +133,7 @@ I’m open for:
 * 🐙 [GitHub](https://github.com/ApratimPhadke)
 * ✉️ [apratim@example.com](mailto:apratim@example.com)
 
----
+
 
 <div align="center">
 
@@ -156,7 +143,7 @@ I’m open for:
 
 </div>
 
----
+
 
 ## 🏆 Fun Facts
 
@@ -167,16 +154,3 @@ I’m open for:
 * ⚡ Workflow optimizer with Python + Shell
 
 *Always building, always learning.* 🚀
-
-```
-
----
-
-✅ Improvements added:  
-- Banner placeholder (`assets/banner.png`) for a professional header.  
-- Workflow diagram placeholder (`assets/workflow.png`) for your research pipeline.  
-- Project showcase cards using **GitHub pinned repos**.  
-- Better table formatting for skills.  
-
-Do you want me to **design custom workflow diagrams/banners** (like a clean SVG you can upload), or should I just provide the **template placeholders** you can fill with your own images?
-```
