@@ -1,79 +1,78 @@
-
-# 👋 Hi there, I'm Apratim — Hardware & VLSI Engineer  
+# Hi there, I'm a Hardware Engineer! 👋
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=600&lines=VLSI+Design+%7C+AI-Hardware+Integration;Electronics+%26+Telecom+Engineering;Bridging+Silicon+and+Intelligence)](https://git.io/typing-svg)
-
-<img src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/main/assets/banner.png" alt="Banner" width="100%" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=435&lines=VLSI+Design+%26+Hardware+Engineering;AI-Hardware+Integration+Enthusiast;Electronics+%26+Telecom+Engineering)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I'm **Apratim Phadke**, an **Electronics & Telecommunication Engineering student** driven by the challenge of fusing **classical hardware design** with **modern AI acceleration**.  
+I'm Apratim Phadke an **Electronics and Telecommunication Engineering student** at, passionate about pushing the boundaries of hardware design and AI integration. My journey spans from low-level hardware description languages to cutting-edge machine learning applications in chip design.
 
-- 🔬 **Focus Areas**: VLSI Design • AI-Hardware Co-Design • Open Source EDA  
-- 🎯 **Career Goal**: Build next-gen processors where silicon meets intelligence  
-- 🌱 **Currently Learning**: Advanced VLSI, ARM SoC, Neural Architectures  
-- 💡 **Research Interests**: Neural-inspired processors • On-chip LLMs • AI accelerators  
-- 📍 **Based in**: Pune, India  
-- 🎓 **Leadership**: General Manager, IEEE VIIT Student Branch  
+- 🔬 **Current Focus**: VLSI Design, AI-Hardware Integration, and Open Source EDA Tools
+- 🎯 **Career Goal**: Bridging the gap between traditional hardware design and modern AI acceleration
+- 🌱 **Learning**: Advanced VLSI techniques, Neural Network Architectures, ARM SoC Design
+- 💡 **Research Interest**: Neural network-inspired processor architectures and on-chip LLM implementations
+- 📍 **Location**: Pune, India
+- 🎓 **Role**: IEEE VIIT Student Branch General Manager
 
+## 🛠️ Technical Arsenal
 
-## 🛠️ Technical Arsenal  
+### 💻 Programming Languages
+![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
+![System Verilog](https://img.shields.io/badge/System_Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![HDL](https://img.shields.io/badge/HDL-4CAF50?style=for-the-badge&logo=hardware&logoColor=white)
 
-<div align="center">
+### 🔧 VLSI & EDA Tools
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-FF1744?style=for-the-badge&logo=xilinx&logoColor=white)
+![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-9C27B0?style=for-the-badge&logo=magic&logoColor=white)
+![OpenROAD](https://img.shields.io/badge/OpenROAD-FF9800?style=for-the-badge&logo=road&logoColor=white)
+![OpenLANE](https://img.shields.io/badge/OpenLANE-2196F3?style=for-the-badge&logo=lane&logoColor=white)
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-607D8B?style=for-the-badge&logo=verilog&logoColor=white)
+![GTKWave](https://img.shields.io/badge/GTKWave-4CAF50?style=for-the-badge&logo=wave&logoColor=white)
+![Yosys](https://img.shields.io/badge/Yosys-795548?style=for-the-badge&logo=synthesis&logoColor=white)
 
-| **Languages** | **VLSI/EDA Tools** | **Dev Env** | **AI/ML Stack** |
-|---------------|--------------------|-------------|-----------------|
-| ![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge) | ![Vivado](https://img.shields.io/badge/Vivado-FF1744?style=for-the-badge) ![Magic](https://img.shields.io/badge/Magic_VLSI-9C27B0?style=for-the-badge) ![OpenROAD](https://img.shields.io/badge/OpenROAD-FF9800?style=for-the-badge) ![Yosys](https://img.shields.io/badge/Yosys-795548?style=for-the-badge) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge) ![Scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge) |
+### 🖥️ Development Environment
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+### 🤖 AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+## 🏗️ Featured Projects & Achievements
 
-## 🏗️ Projects & Achievements  
+### 🔥 VLSI Design Projects
+- **8-bit Microprocessor (fetch-decode-execute)**: Complete microprocessor architecture including instruction fetch, decode, and execute stages.
+- **CPU Instruction Pipeline (5-stage)**: Fully implemented instruction pipeline enabling parallel execution for improved processor performance.
+- **SDRAM Controller (Modelled)**: RTL-level SDRAM memory interface handling read/write operations and timing protocols.
+- **AXI-lite Interconnect (basic version)**: Basic AXI-lite compliant bus interconnect supporting memory-mapped communication between modules.
+- **AES Encryption (S-box only)**: Hardware implementation of the S-box block for rapid and secure AES cryptographic operations.
 
-<div align="center">
+### 🤖 AI-Hardware Integration
+- **🧠 Neural Network Processor Architecture**: Research on NN-inspired microprocessor pipeline structures
+- **🔬 On-chip LLM Research**: Investigating feasibility of large language models on custom silicon
 
-### 🔥 VLSI Projects  
+### 🎓 Academic Excellence
+- **📚 IEEE VIIT Student Branch**: General Manager position 
+- **🏆 Hackathon Participation**: Active participant in competitive programming events
+- **📖 Technical Documentation**: Comprehensive README files and project documentation
 
-⚡ 8-bit Microprocessor (Fetch–Decode–Execute)
-⚡ 5-Stage Instruction Pipeline
-⚡ SDRAM Controller (RTL)
-⚡ AXI-lite Interconnect
-⚡ AES S-box Hardware
+## 📈 Current Research & Learning
 
+### 🔬 Research Areas
+- **Automated Test Systems**: High-current short-circuit testing for MCBs
+- **Renewable Energy Integration**: Hosting capacity analysis in distribution feeders
+- **ARM SoC Architecture**: Advanced system-on-chip design methodologies
+- **AI Accelerator Design**: Custom hardware for machine learning workloads
 
-### 🤖 AI-Hardware Integration  
-
-🧠 Neural Processor Architecture (Research)
-🔬 On-chip LLM Feasibility Studies
-
-
-
-### 🎓 Leadership & Recognition  
-
-📚 IEEE VIIT GM
-🏆 Hackathon Participant
-📖 Technical Documentation Expert
-
-
-</div>
-
-
-## 📈 Research & Exploration  
-
-<img src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/main/assets/workflow.png" alt="Research Workflow" width="90%" />
-
-- **Automated Test Systems** → MCB short-circuit studies  
-- **Renewable Integration** → Hosting capacity analysis  
-- **ARM SoC Architectures** → Design & verification  
-- **AI Accelerators** → Custom silicon for ML  
-
-
-
-## 🌟 My Engineering DNA  
+## 🌟 What Makes Me Unique
 
 ```verilog
 module unique_engineer (
@@ -91,66 +90,57 @@ always @(*) begin
 end
 
 endmodule
-````
+```
 
+- 🔄 **Dual Expertise**: Hardware design meets AI/ML applications
+- 🌐 **Open Source Advocate**: Contributing to accessible EDA tools
+- 🎯 **Problem Solver**: From circuit design to system-level integration
+- 🚀 **Future-Focused**: Preparing for next-gen computing paradigms
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApratimPhadke&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ApratimPhadke\&show_icons=true\&theme=radical\&hide_border=true\&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApratimPhadke\&layout=compact\&theme=radical\&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApratimPhadke\&theme=radical\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApratimPhadke&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApratimPhadke&theme=radical&hide_border=true)
+
 
 </div>
 
+## 🤝 Let's Connect & Collaborate!
 
-## 📌 Featured Projects
+I'm always excited to discuss:
+- 💡 **Innovative VLSI Design Techniques**
+- 🤖 **AI-Hardware Integration Projects**
+- 🔧 **Open Source EDA Tool Development**
+- 🎓 **Academic Research Collaborations**
+- 💼 **Industry Internship Opportunities**
 
-<p align="center">
-  <a href="https://github.com/ApratimPhadke/microprocessor-design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApratimPhadke&repo=microprocessor-design&theme=radical" />
-  </a>
-  <a href="https://github.com/ApratimPhadke/axi-lite-interconnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApratimPhadke&repo=axi-lite-interconnect&theme=radical" />
-  </a>
-</p>
+### 📬 Reach Out
+- 💼 **Industry Projects**: Open to collaboration on machine learning hardware
+- 🎓 **Academic Research**: Available for joint research initiatives
+- 🛠️ **Open Source**: Contributing to community-driven EDA tools
+- 📱 **Networking**: Always happy to connect with fellow engineers
 
-
-
-## 🤝 Let’s Connect
-
-I’m open for:
-
-* 💡 VLSI design collaborations
-* 🤖 AI-hardware projects
-* 🔧 Open source EDA contributions
-* 🎓 Academic research & internships
-
-📬 Reach me on:
-
-* 💼 [LinkedIn](https://www.linkedin.com/)
-* 🐙 [GitHub](https://github.com/ApratimPhadke)
-* ✉️ [apratim@example.com](mailto:apratim@example.com)
-
-
+---
 
 <div align="center">
+  
+**"Designing tomorrow's hardware with today's innovation"** ⚡
 
-⚡ **"Designing tomorrow's hardware with today's innovation"** ⚡
-
-[![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=ApratimPhadke.ApratimPhadke)](https://github.com/ApratimPhadke)
+[![My Profile](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/ApratimPhadke)
 
 </div>
-
-
 
 ## 🏆 Fun Facts
 
-* 🐧 Linux + CLI power user
-* 📡 IoT tinkerer (8051 → Raspberry Pi)
-* 🔍 Research paper diver
-* 🌐 IEEE community builder
-* ⚡ Workflow optimizer with Python + Shell
+- 🐧 **Linux Enthusiast**: Ubuntu power user with command line proficiency
+- 📡 **IoT Explorer**: From 8051 microcontrollers to Raspberry Pi projects
+- 🔍 **Research Enthusiast**: Always diving deep into technical papers
+- 🌐 **Community Builder**: Bridging academia and industry through IEEE
+- ⚡ **Efficiency Seeker**: Automating workflows with Python and shell scripts
 
-*Always building, always learning.* 🚀
+*Ready to push the boundaries of what's possible in hardware design and AI integration!* 🚀
