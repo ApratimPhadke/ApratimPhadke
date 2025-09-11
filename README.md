@@ -228,16 +228,66 @@ endmodule
 </div>
 
 ### **💡 Research Methodology**
-```python
-# My approach to breakthrough research
-research_pipeline = {
-    "identify_gap": "Find unaddressed problems in AI-hardware space",
-    "prototype": "Build proof-of-concept using Verilog/SystemVerilog", 
-    "optimize": "Enhance for power, performance, and area (PPA)",
-    "validate": "Test against industry benchmarks",
-    "publish": "Share findings with IEEE community"
-}
-```
+# Research Methodology — concise, reproducible pipeline 
+research_pipeline = [
+    {
+        "step": "01_identify_gap",
+        "title": "Identify gap",
+        "goal": "Find unaddressed problems in AI-hardware space",
+        "methods": ["literature_survey", "benchmark_analysis", "failure_modes"],
+        "deliverables": ["problem_statement.md", "lit_review.bib"]
+    },
+    {
+        "step": "02_define_metrics",
+        "title": "Define success metrics",
+        "goal": "Quantify what 'better' means (PPA, latency, energy, accuracy)",
+        "methods": ["metric_spec", "baseline_selection"],
+        "deliverables": ["metrics.yml", "baseline_report.pdf"]
+    },
+    {
+        "step": "03_prototype",
+        "title": "Prototype",
+        "goal": "Build a proof-of-concept using Verilog/SystemVerilog or RTL",
+        "methods": ["RTL_impl", "synthesis", "FPGA_prototyping"],
+        "deliverables": ["rtl/", "testbenches/", "fpga_image.bit"]
+    },
+    {
+        "step": "04_optimize",
+        "title": "Optimize",
+        "goal": "Improve power, performance and area (PPA)",
+        "methods": ["pipelining", "loop_unrolling", "clock_gating", "synthesis_constraints"],
+        "deliverables": ["synthesis_reports/", "power_reports/"]
+    },
+    {
+        "step": "05_validate",
+        "title": "Validate",
+        "goal": "Functional and performance validation vs industry benchmarks",
+        "methods": ["gate_level_sim", "post_layout_sim", "benchmark_suite"],
+        "deliverables": ["validation_report.pdf", "vcd_waveforms/"]
+    },
+    {
+        "step": "06_document_publish",
+        "title": "Document & Publish",
+        "goal": "Write paper, release code and reproducible artifacts",
+        "methods": ["manuscript", "open_repo", "repro_instructions"],
+        "deliverables": ["paper.pdf", "README.md", "artifact_bundle.zip"]
+    },
+    {
+        "step": "07_community_feedback",
+        "title": "Community feedback & iterate",
+        "goal": "Collect reviews, reproduce results, and iterate",
+        "methods": ["preprint_comments", "open_issues", "replication_tests"],
+        "deliverables": ["issue_tracker", "revision_log.md"]
+    }
+]
+
+
+def render_checklist(pipeline):
+    for s in pipeline:
+        print(f"{s['step']} — {s['title']}")
+        print(f"  Goal: {s['goal']}")
+        print(f"  Deliverables: {', '.join(s['deliverables'])}\n")
+
 
 <details>
 <summary><b>🏆 Academic Excellence & Leadership</b></summary>
