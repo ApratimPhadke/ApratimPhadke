@@ -10,8 +10,17 @@
 
 <br/>
 
-<!-- Animated Stats Dashboard -->
-<img src="https://github-profile-trophy.vercel.app/api/?username=ApratimPhadke&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+<!-- Dynamic Skills & Achievements Dashboard -->
+<div align="center">
+
+[![VLSI Design](https://img.shields.io/badge/VLSI_Design-Expert-FF6B35?style=for-the-badge&logo=microchip&logoColor=white)](https://github.com/ApratimPhadke)
+[![AI Hardware](https://img.shields.io/badge/AI_Hardware-Advanced-00D9FF?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/ApratimPhadke)
+[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApratimPhadke)
+[![IEEE Leader](https://img.shields.io/badge/IEEE-General_Manager-9C27B0?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ApratimPhadke&theme=tokyonight&hide_border=true&layout=compact&custom_title=⚡%20Weekly%20Development%20Focus" />
+
+</div>
 
 </div>
 
