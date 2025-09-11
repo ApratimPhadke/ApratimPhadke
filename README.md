@@ -18,7 +18,7 @@
 [![Open Source](https://img.shields.io/badge/Open_Source-Contributor-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApratimPhadke)
 [![IEEE Leader](https://img.shields.io/badge/IEEE-General_Manager-9C27B0?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ApratimPhadke&theme=tokyonight&hide_border=true&layout=compact&custom_title=⚡%20Weekly%20Development%20Focus" />
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=ApratimPhadke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=🚀%20Development%20Overview)
 
 </div>
 
