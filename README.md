@@ -1,4 +1,4 @@
-# 🚀 Apratim Phadke | VLSI Design & AI-Hardware Pioneer
+# Apratim Phadke | VLSI Design & AI-Hardware Pioneer
 
 <div align="center">
 
@@ -212,7 +212,7 @@ endmodule
 
 </div>
 
-```python
+
 class ResearchPortfolio:
     def __init__(self):
         self.focus_areas = {
@@ -232,7 +232,6 @@ class ResearchPortfolio:
                 "status": "Prototype Ready"
             }
         }
-```
 
 <details>
 <summary><b>🏆 Academic Excellence & Leadership</b></summary>
