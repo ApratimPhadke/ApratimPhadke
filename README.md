@@ -72,7 +72,6 @@ endmodule
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B35?style=for-the-badge&logo=v&logoColor=white&labelColor=8B0000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
 ![Assembly](https://img.shields.io/badge/Assembly_x86-525252?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=000000)
-![VHDL](https://img.shields.io/badge/VHDL-4CAF50?style=for-the-badge&logo=hardware&logoColor=white&labelColor=2E7D32)
 
 ### ⚡ **VLSI & EDA Ecosystem**
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31837?style=for-the-badge&logo=xilinx&logoColor=white)
