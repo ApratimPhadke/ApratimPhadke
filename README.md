@@ -21,7 +21,7 @@ I'm a **3rd-year Electronics and Telecommunication Engineering student** at, pas
 
 ### 💻 Programming Languages
 ![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
-![System Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
+![System Verilog](https://img.shields.io/badge/System_Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![HDL](https://img.shields.io/badge/HDL-4CAF50?style=for-the-badge&logo=hardware&logoColor=white)
