@@ -304,13 +304,11 @@ research_pipeline = {
 
 </div>
 
-- 🐧 **Linux Enthusiast**: Ubuntu power user with 1000+ terminal commands mastered
+- 🐧 **Linux Enthusiast**: Ubuntu power user with  terminal commands mastered
 - 📡 **IoT Explorer**: From 8051 assembly to Raspberry Pi cluster computing
-- 🔍 **Research Fanatic**: 500+ IEEE papers read and counting
-- 🌐 **Community Builder**: Organizing India's largest student VLSI symposium
+- 🔍 **Research Fanatic**: more and more IEEE papers read and counting
 - ⚡ **Automation Geek**: Python scripts for everything (seriously, everything!)
 - 🎮 **Hardware Hacker**: Building retro gaming consoles on FPGAs
-- 📚 **Knowledge Sharer**: Technical blog with 10K+ monthly readers
 - 🚀 **Space Tech**: Working on satellite communication processors
 
 ---
