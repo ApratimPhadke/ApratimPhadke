@@ -247,9 +247,7 @@ research_pipeline = {
 - 🌐 **Industry Connect**: Bridging academia with semiconductor industry leaders
 
 ### 🥇 **Competition Achievements**
-- 🏆 **Hackathon Winner**: AI-Hardware Integration Challenge 2024
 - 🎖️ **Research Paper**: Published in IEEE Student Conference on VLSI Design
-- 🌟 **Innovation Award**: Best Student Project in Neuromorphic Computing
 - 📊 **Technical Presentations**: 15+ seminars on cutting-edge hardware design
 
 </details>
