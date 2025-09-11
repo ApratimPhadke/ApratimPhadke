@@ -137,7 +137,7 @@ I'm always excited to discuss:
   
 **"Designing tomorrow's hardware with today's innovation"** ⚡
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/ApratimPhadke)
+[![My Profile](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/ApratimPhadke)
 
 </div>
 
