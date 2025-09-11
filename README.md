@@ -1,4 +1,4 @@
-# Apratim Phadke | VLSI Design & AI-Hardware Pioneer
+# 🚀 Apratim Phadke | VLSI Design & AI-Hardware Pioneer
 
 <div align="center">
 
@@ -208,30 +208,27 @@ endmodule
 
 <div align="center">
 
-### **Current Research Areas**
+### **🔬 Current Research Portfolio**
+
+| Research Area | Goal | Impact | Timeline |
+|---------------|------|--------|----------|
+| 🧠 **Neuromorphic Computing** | Brain-inspired processor architectures | 10x energy efficiency for AI workloads | 2024-2025 |
+| ⚡ **Quantum-Classical Bridge** | Hybrid computing architectures | Quantum advantage in VLSI design | 2025-2026 |
+| 🔬 **Edge AI Processors** | Ultra-low power ML inference | IoT device intelligence revolution | Prototype Ready |
 
 </div>
 
-
-class ResearchPortfolio:
-    def __init__(self):
-        self.focus_areas = {
-            "🧠 Neuromorphic Computing": {
-                "goal": "Brain-inspired processor architectures",
-                "impact": "10x energy efficiency for AI workloads",
-                "timeline": "2024-2025"
-            },
-            "⚡ Quantum-Classical Bridge": {
-                "goal": "Hybrid computing architectures", 
-                "impact": "Quantum advantage in VLSI design",
-                "timeline": "2025-2026"
-            },
-            "🔬 Edge AI Processors": {
-                "goal": "Ultra-low power ML inference",
-                "impact": "IoT device intelligence revolution",
-                "status": "Prototype Ready"
-            }
-        }
+### **💡 Research Methodology**
+```python
+# My approach to breakthrough research
+research_pipeline = {
+    "identify_gap": "Find unaddressed problems in AI-hardware space",
+    "prototype": "Build proof-of-concept using Verilog/SystemVerilog", 
+    "optimize": "Enhance for power, performance, and area (PPA)",
+    "validate": "Test against industry benchmarks",
+    "publish": "Share findings with IEEE community"
+}
+```
 
 <details>
 <summary><b>🏆 Academic Excellence & Leadership</b></summary>
