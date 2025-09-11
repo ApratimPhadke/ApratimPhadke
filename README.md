@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year Electronics and Telecommunication Engineering student** at, passionate about pushing the boundaries of hardware design and AI integration. My journey spans from low-level hardware description languages to cutting-edge machine learning applications in chip design.
+I'm Apratim Phadke an **Electronics and Telecommunication Engineering student** at, passionate about pushing the boundaries of hardware design and AI integration. My journey spans from low-level hardware description languages to cutting-edge machine learning applications in chip design.
 
 - 🔬 **Current Focus**: VLSI Design, AI-Hardware Integration, and Open Source EDA Tools
 - 🎯 **Career Goal**: Bridging the gap between traditional hardware design and modern AI acceleration
@@ -49,16 +49,14 @@ I'm a **3rd-year Electronics and Telecommunication Engineering student** at, pas
 ## 🏗️ Featured Projects & Achievements
 
 ### 🔥 VLSI Design Projects
-- **🧮 4-bit ALU Design**: Complete arithmetic logic unit implementation in Verilog
-- **🔄 Barrel Shifter**: High-performance bit manipulation circuit design
-- **⚡ Sequential Logic Circuits**: JK flip-flops, SR latches with comprehensive testbenches
-- **🔧 Open Source EDA Toolchain**: Integration of Icarus Verilog, GTKWave, Magic, OpenROAD
-- **📊 Static Timing Analysis**: STA implementation using SkyWater SKY130 PDK and OpenSTA
+- **8-bit Microprocessor (fetch-decode-execute)**: Complete microprocessor architecture including instruction fetch, decode, and execute stages.
+- **CPU Instruction Pipeline (5-stage)**: Fully implemented instruction pipeline enabling parallel execution for improved processor performance.
+- **SDRAM Controller (Modelled)**: RTL-level SDRAM memory interface handling read/write operations and timing protocols.
+- **AXI-lite Interconnect (basic version)**: Basic AXI-lite compliant bus interconnect supporting memory-mapped communication between modules.
+- **AES Encryption (S-box only)**: Hardware implementation of the S-box block for rapid and secure AES cryptographic operations.
 
 ### 🤖 AI-Hardware Integration
 - **🧠 Neural Network Processor Architecture**: Research on NN-inspired microprocessor pipeline structures
-- **📧 ML Email Summarizer**: AI-powered email automation with job application management
-- **🎯 YOLO Object Detection System**: Raspberry Pi 4B based security system with camera integration
 - **🔬 On-chip LLM Research**: Investigating feasibility of large language models on custom silicon
 
 ### 🎓 Academic Excellence
