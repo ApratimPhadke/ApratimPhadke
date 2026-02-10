@@ -1,79 +1,87 @@
-# 🚀 Apratim Phadke | VLSI Design & AI-Hardware Pioneer
+# 🚀 Apratim Phadke | Hardware Engineer & VLSI Designer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hardware%20Engineer&fontSize=60&fontAlignY=35&desc=VLSI%20|%20AI%20Integration%20|%20Next-Gen%20Computing&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hardware%20Engineer&fontSize=60&fontAlignY=35&desc=VLSI%20|%20Embedded%20Systems%20|%20AI-Hardware%20Integration&descAlignY=55&descAlign=50" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=VLSI+Design+%26+Neural+Architecture+Fusion;🧠+Building+Tomorrow's+AI+Processors;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Digital+Design+%7C+RTL+Development+%7C+Embedded+Systems;Building+Next-Generation+Hardware+Solutions)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- Dynamic Skills & Achievements Dashboard -->
-<div align="center">
 
 [![VLSI Design](https://img.shields.io/badge/VLSI_Design-Expert-FF6B35?style=for-the-badge&logo=microchip&logoColor=white)](https://github.com/ApratimPhadke)
-[![AI Hardware](https://img.shields.io/badge/AI_Hardware-Advanced-00D9FF?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/ApratimPhadke)
-[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApratimPhadke)
+[![RTL Design](https://img.shields.io/badge/RTL_Design-Advanced-00D9FF?style=for-the-badge&logo=v&logoColor=white)](https://github.com/ApratimPhadke)
+[![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-Professional-4CAF50?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/ApratimPhadke)
 [![IEEE Leader](https://img.shields.io/badge/IEEE-General_Manager-9C27B0?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=ApratimPhadke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=🚀%20Development%20Overview)
-
-</div>
 
 </div>
 
 ---
 
-## 🌟 About Me | Innovation at Silicon Level
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```verilog
 module apratim_engineer (
-    input wire [31:0] curiosity,
-    input wire [31:0] innovation, 
-    input wire [31:0] dedication,
-    output reg [63:0] breakthrough_solutions,
-    output reg career_success
+    input wire [31:0] innovation,
+    input wire [31:0] expertise, 
+    input wire [31:0] leadership,
+    output reg [63:0] hardware_solutions,
+    output reg technical_excellence
 );
 
-parameter STUDENT_ID = "Electronics & Telecom @ VIIT";
-parameter LOCATION = "Pune, India 🇮🇳";
-parameter MISSION = "AI-Hardware Convergence";
+parameter INSTITUTION = "VIIT Pune | ENTC";
+parameter ROLE = "IEEE General Manager";
+parameter FOCUS = "VLSI • Embedded • AI-Hardware";
 
 always @(posedge clk) begin
-    if (curiosity && innovation && dedication) begin
-        breakthrough_solutions <= $random;
-        career_success <= 1'b1;
+    if (innovation && expertise && leadership) begin
+        hardware_solutions <= cutting_edge_design;
+        technical_excellence <= 1'b1;
     end
 end
 
 endmodule
 ```
 
-🎯 **Vision**: Architecting the future where AI meets silicon - creating processors that think, learn, and evolve.
+**Electronics and Telecommunication Engineering student at VIIT Pune**, specializing in the intersection of semiconductor technology, embedded systems, and hardware design. My work focuses on creating efficient, intelligent hardware solutions that bridge digital logic, computer architecture, and modern AI applications.
 
-- 🔬 **Research Focus**: Neural Network-Inspired Processor Architectures
-- 🎓 **Leadership**: IEEE VIIT Student Branch General Manager
-- 💡 **Innovation**: Bridging quantum computing concepts with classical VLSI design
-- 🌱 **Currently Exploring**: On-chip LLM implementations & Edge AI acceleration
-- 📍 **Base**: Pune, Maharashtra, India
+### 🎯 Core Expertise
+
+- 🔬 **VLSI Design**: Digital logic design, RTL coding, processor architecture
+- 💻 **Hardware Description Languages**: Verilog, SystemVerilog for complex digital systems
+- 🛠️ **Embedded Systems**: Multi-sensor IoT platforms, hardware-software co-design
+- 🧠 **AI-Hardware Integration**: Neural processor architectures, AI-accelerated systems
+- 🤖 **Intelligent Systems**: Robotics principles applied to hardware control systems
+- 📡 **Computer Architecture**: Pipeline optimization, memory hierarchies, system design
+
+### 🏆 Leadership & Impact
+
+**IEEE VIIT Student Branch - General Manager**
+- Leading technical workshops and large-scale engineering events
+- Driving collaborative innovation across diverse engineering teams
+- Building a community of hardware enthusiasts and innovators
 
 ---
 
-## 🛠️ Technology Stack | My Digital Arsenal
+## 🛠️ Technical Stack
 
 <div align="center">
 
-### 💻 **Core Languages & HDL**
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white&labelColor=FF6B35)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B35?style=for-the-badge&logo=v&logoColor=white&labelColor=8B0000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
-![Assembly](https://img.shields.io/badge/Assembly_x86-525252?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=000000)
+### **Hardware Description & RTL**
+![Verilog](https://img.shields.io/badge/Verilog-Expert-FF6B35?style=for-the-badge&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Advanced-8B0000?style=for-the-badge&logo=v&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-Proficient-525252?style=for-the-badge&logo=v&logoColor=white)
 
-### ⚡ **VLSI & EDA Ecosystem**
+### **Programming & Development**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### **EDA Tools & Simulation**
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31837?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-9C27B0?style=for-the-badge&logo=magic&logoColor=white)
 ![OpenROAD](https://img.shields.io/badge/OpenROAD-FF9800?style=for-the-badge&logo=road&logoColor=white)
@@ -82,9 +90,12 @@ endmodule
 ![GTKWave](https://img.shields.io/badge/GTKWave-4CAF50?style=for-the-badge&logo=wave&logoColor=white)
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-607D8B?style=for-the-badge&logo=verilog&logoColor=white)
 
-### 🤖 **AI/ML & Development**
+### **AI/ML & Advanced Technologies**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-FF6B35?style=for-the-badge&logo=ros&logoColor=white)
+
+### **Development Environment**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -93,11 +104,11 @@ endmodule
 
 ---
 
-## 🏗️ Featured Projects | Engineering Excellence
+## 🏗️ Featured Projects
 
 <div align="center">
 
-### 🔥 **Flagship VLSI Designs**
+### **🔥 Signature Hardware Designs**
 
 </div>
 
@@ -105,236 +116,203 @@ endmodule
 <tr>
 <td width="50%">
 
-#### 🧠 **8-bit Microprocessor Architecture**
+#### 🚀 **32-bit 5-Stage Pipelined RISC-V Processor**
 ```verilog
-// Complete fetch-decode-execute pipeline
-module cpu_core (
+// High-performance pipelined architecture
+module riscv_pipeline (
     input clk, reset,
-    output [7:0] data_out,
-    output reg [15:0] pc
+    output [31:0] instruction,
+    output [31:0] data_out
 );
-// Revolutionary design with 
-// optimized instruction throughput
+// Optimized for low power & high performance
+// Full RISC-V ISA implementation
 endmodule
 ```
-**Impact**: Full instruction set implementation with custom ALU design
+**Achievement**: Complete processor design with optimized pipeline stages, hazard detection, and forwarding units
+
+**Tech Stack**: Verilog • Digital Design • Computer Architecture
 
 </td>
 <td width="50%">
 
-#### ⚡ **5-Stage Pipeline Processor**
+#### 💾 **Open-Source Verilog Module Library**
 ```verilog
-// Advanced pipelining for parallel execution
-pipeline_stage #(
-    .FETCH(1), .DECODE(2), 
-    .EXECUTE(3), .MEMORY(4), 
-    .WRITEBACK(5)
-) cpu_pipeline (/*...*/);
+// Comprehensive HDL resource repository
+├── Basic Digital Blocks
+├── Memory Controllers
+├── Communication Protocols
+├── Arithmetic Units
+└── Complete System Designs
 ```
-**Achievement**: 3x performance improvement over single-cycle design
+**Impact**: Public GitHub repository facilitating open-source learning and collaboration in digital design
+
+**Focus**: Educational Resources • Community Building • Best Practices
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 💾 **SDRAM Controller Implementation**
-```verilog
-// High-performance memory interface
-module sdram_ctrl (
-    input [23:0] addr,
-    inout [15:0] data,
-    output reg cas_n, ras_n, we_n
-);
-// Optimized for burst operations
-endmodule
+#### 🌐 **Multi-Sensor IoT Platform**
+```c
+// Embedded systems integration
+typedef struct {
+    uint8_t sensor_array[MAX_SENSORS];
+    uint16_t data_buffer[BUFFER_SIZE];
+    bool cloud_enabled;
+} iot_system_t;
+// Smart home & energy monitoring
 ```
-**Innovation**: Custom timing optimization for DDR protocols
+**Innovation**: Integrated embedded platform combining multiple sensors for real-world smart home and energy monitoring applications
+
+**Technologies**: Embedded C • IoT Protocols • Sensor Integration
 
 </td>
 <td width="50%">
 
-#### 🔐 **AES Encryption Engine**
+#### 🧠 **Neural Processor Architecture**
 ```verilog
-// Hardware-accelerated cryptography
-module aes_sbox (
-    input [7:0] data_in,
-    output [7:0] data_out
+// AI-hardware convergence design
+module neural_processing_unit (
+    input [31:0] weight_data,
+    input [31:0] activation_input,
+    output [31:0] computed_output
 );
-// Ultra-low latency implementation
+// Hardware acceleration for ML inference
 endmodule
 ```
-**Security**: NSA-grade encryption with minimal gate count
+**Exploration**: Research into neural network-inspired processor designs and AI-accelerated control systems
+
+**Domain**: Machine Learning • Hardware Acceleration • AI Integration
 
 </td>
 </tr>
 </table>
 
-### 🚀 **AI-Hardware Convergence Projects**
+---
+
+## 📊 Technical Proficiency Matrix
 
 <div align="center">
 
-| Project | Technology | Status | Impact |
-|---------|------------|---------|---------|
-| 🧠 **Neural Processor Architecture** | Custom Silicon + Verilog | 🔬 Research | Next-gen AI acceleration |
-| 🔬 **On-chip LLM Implementation** | RISC-V + Neural Networks | 🚧 Development | Edge AI revolution |
-| ⚡ **AXI-lite Smart Interconnect** | System Verilog + Python | ✅ Complete | 40% bandwidth improvement |
-| 🛡️ **Hardware Security Module** | Cryptographic HDL | 🔄 Testing | Military-grade protection |
+| Domain | Expertise Level | Key Competencies |
+|--------|----------------|------------------|
+| **🔧 VLSI & Digital Design** | ████████████ 95% | RTL Design • Synthesis • Timing Analysis • DFT |
+| **💻 Computer Architecture** | ████████████ 92% | Pipeline Design • Memory Systems • ISA Implementation |
+| **🛠️ Embedded Systems** | ████████████ 90% | Microcontrollers • Real-Time Systems • IoT Integration |
+| **🤖 AI-Hardware Integration** | ████████████ 85% | Neural Architectures • Hardware Acceleration • ML Inference |
+| **📡 Communication Protocols** | ████████████ 88% | SPI • I2C • UART • AXI • PCIe |
+| **🔐 Hardware Security** | ████████████ 80% | Cryptographic Engines • Secure Boot • Side-Channel Protection |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics | Code Excellence Metrics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ApratimPhadke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=🚀%20GitHub%20Performance" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ApratimPhadke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ApratimPhadke&theme=tokyonight&hide_border=true&fire=FF6B35&ring=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ApratimPhadke&theme=tokyonight&hide_border=true&fire=FF6B35&ring=00D9FF&currStreakLabel=00D9FF" />
-
-
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ApratimPhadke&theme=tokyo-night&hide_border=true&area=true&custom_title=📈%20Contribution%20Timeline" />
-
-</div>
-
-<div align="center">
-
-### 🏆 **Achievement Highlights**
-
-[![](https://img.shields.io/badge/Total_Commits-150+-00D9FF?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ApratimPhadke)
-[![](https://img.shields.io/badge/Projects_Completed-25+-FF6B35?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/ApratimPhadke)
-[![](https://img.shields.io/badge/Lines_of_Code-50K+-4CAF50?style=for-the-badge&logo=code&logoColor=white)](https://github.com/ApratimPhadke)
-[![](https://img.shields.io/badge/Open_Source-Contributor-9C27B0?style=for-the-badge&logo=opensource&logoColor=white)](https://github.com/ApratimPhadke)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ApratimPhadke&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" />
 
 </div>
 
 ---
 
-## 🔬 Research & Innovation | Pushing Boundaries
+## 🎯 Current Focus Areas
 
 <div align="center">
 
-### **🔬 Current Research Portfolio**
-
-| Research Area | Goal | Impact | Timeline |
-|---------------|------|--------|----------|
-| 🧠 **Neuromorphic Computing** | Brain-inspired processor architectures | 10x energy efficiency for AI workloads | 2024-2025 |
-| ⚡ **Quantum-Classical Bridge** | Hybrid computing architectures | Quantum advantage in VLSI design | 2025-2026 |
-| 🔬 **Edge AI Processors** | Ultra-low power ML inference | IoT device intelligence revolution | Prototype Ready |
+| Area | Description | Status |
+|------|-------------|---------|
+| 🔬 **Advanced VLSI Design** | Deep dive into low-power design techniques and advanced node optimization | 🔄 Ongoing |
+| 🧠 **AI-Hardware Convergence** | Exploring neuromorphic computing and ML accelerator architectures | 🚀 Active Research |
+| 🛠️ **Open-Source Contributions** | Building comprehensive Verilog libraries and educational resources | ✅ Active |
+| ⚡ **High-Performance Computing** | Studying parallel processing and multi-core system architectures | 📚 Learning |
 
 </div>
 
-### **💡 Research Methodology**
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apratim-phadke-966816223/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apratimphadkeprime@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApratimPhadke)
+
+### **💡 Collaboration & Knowledge Sharing**
+
+| Interest | Focus | Engagement |
+|----------|-------|------------|
+| 🔬 **Technical Projects** | VLSI • Embedded • AI Hardware | Open for Collaboration |
+| 🎓 **Mentorship** | Digital Design • RTL Coding | Active Mentor |
+| 🛠️ **Open Source** | EDA Tools • HDL Libraries | Regular Contributor |
+| 📚 **Knowledge Sharing** | Workshops • Technical Sessions | IEEE Leadership |
+
+</div>
+
+---
+
+## 💡 Philosophy & Approach
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Hardware%20is%20the%20foundation%20upon%20which%20innovation%20builds&author=Engineering%20Excellence" />
+
+</div>
+
 ```python
-# My approach to breakthrough research
-research_pipeline = {
-    "identify_gap": "Find unaddressed problems in AI-hardware space",
-    "prototype": "Build proof-of-concept using Verilog/SystemVerilog", 
-    "optimize": "Enhance for power, performance, and area (PPA)",
-    "validate": "Test against industry benchmarks",
-    "publish": "Share findings with IEEE community"
+# My engineering approach
+engineering_philosophy = {
+    "learn": "Deep understanding of fundamentals - from transistors to systems",
+    "build": "Hands-on implementation of complex hardware designs",
+    "share": "Open-source contribution and knowledge dissemination",
+    "innovate": "Exploring the frontiers of AI-hardware integration",
+    "lead": "Empowering teams through collaborative innovation"
 }
 ```
 
-<details>
-<summary><b>🏆 Academic Excellence & Leadership</b></summary>
+### 🎯 What Drives Me
 
-### 📚 **IEEE VIIT Student Branch - General Manager**
-- 🎯 **Team Leadership**: Managing 50+ student engineers across multiple projects
-- 📈 **Growth Achievement**: 300% increase in branch participation and technical events
-- 🚀 **Innovation Labs**: Established state-of-the-art VLSI design laboratory
-- 🌐 **Industry Connect**: Bridging academia with semiconductor industry leaders
-
-### 🥇 **Competition Achievements**
-- 🎖️ **Research Paper**: Published in IEEE Student Conference on VLSI Design
-- 📊 **Technical Presentations**: 15+ seminars on cutting-edge hardware design
-
-</details>
+- 🔬 **Curiosity**: Exploring how billions of transistors orchestrate intelligent solutions
+- 🛠️ **Craftsmanship**: Designing efficient, elegant hardware architectures
+- 🌟 **Innovation**: Pushing boundaries in VLSI design and embedded systems
+- 🤝 **Community**: Building and sharing knowledge with fellow engineers
+- 🚀 **Impact**: Creating hardware solutions that power real-world applications
 
 ---
 
-## 🎯 Specialization Matrix | Domain Expertise
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-| Domain | Proficiency | Experience | Notable Projects |
-|--------|-------------|------------|-----------------|
-| **🔧 VLSI Design** | ████████████ 95% | 3+ Years | 8-bit CPU, Pipeline Processor |
-| **🤖 AI Hardware** | ████████████ 90% | 2+ Years | Neural Processor, Edge AI |
-| **⚡ Digital Systems** | ████████████ 92% | 4+ Years | AXI Interconnect, SDRAM |
-| **🔐 Hardware Security** | ████████████ 85% | 1+ Years | AES Engine, Secure Boot |
-| **🐧 Linux/Open Source** | ████████████ 88% | 3+ Years | EDA Tools, Automation |
-| **📡 Embedded Systems** | ████████████ 87% | 2+ Years | IoT Projects, ARM SoCs |
+[![Total Commits](https://img.shields.io/badge/Total_Commits-1500+-00D9FF?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ApratimPhadke)
+[![Projects](https://img.shields.io/badge/Projects-25+-FF6B35?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/ApratimPhadke)
+[![Lines of Code](https://img.shields.io/badge/Lines_of_Code-50K+-4CAF50?style=for-the-badge&logo=code&logoColor=white)](https://github.com/ApratimPhadke)
+[![Open Source](https://img.shields.io/badge/Open_Source-Active-9C27B0?style=for-the-badge&logo=opensource&logoColor=white)](https://github.com/ApratimPhadke)
 
 </div>
 
----
-
-## 🌐 Connect & Collaborate | Let's Build the Future
-
-<div align="center">
-
-### **🚀 Open to Opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/apratim-phadke-966816223/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:apratimphadkeprime@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/ApratimPhadke)
-
-### **💼 Collaboration Interests**
-
-| Area | Type | Availability |
-|------|------|-------------|
-| 🔬 **Research Projects** | Academic/Industry | ✅ Available |
-| 💼 **Internships** | VLSI/AI Hardware | 🚀 Actively Seeking |
-| 🛠️ **Open Source** | EDA Tools Development | ⚡ Contributing |
-| 🎓 **Mentorship** | Student Projects | 💡 Always Open |
-
-</div>
-
----
-
-## 🎯 Fun Facts & Interests | Beyond the Code
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" />
-
-</div>
-
-- 🐧 **Linux Enthusiast**: Ubuntu power user with  terminal commands mastered
-- 📡 **IoT Explorer**: From 8051 assembly to Raspberry Pi cluster computing
-- 🔍 **Research Fanatic**: more and more IEEE papers read and counting
-- ⚡ **Automation Geek**: Python scripts for everything (seriously, everything!)
-- 🎮 **Hardware Hacker**: Building retro gaming consoles on FPGAs
-- 🚀 **Space Tech**: Working on satellite communication processors
-
----
-
-## 📈 Contribution Activity | Consistency & Growth
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApratimPhadke&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=38bdae&area=true&hide_border=true&custom_title=📊%20Annual%20Contribution%20Graph" />
-
-### **🔥 Current Streak Goals**
-
-[![GitHub Streak](https://img.shields.io/badge/Current_Streak-45_Days-FF6B35?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/ApratimPhadke)
-[![Target Streak](https://img.shields.io/badge/Target_Streak-100_Days-00D9FF?style=for-the-badge&logo=target&logoColor=white)](https://github.com/ApratimPhadke)
-[![Commits This Year](https://img.shields.io/badge/2024_Commits-high-4CAF50?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ApratimPhadke)
-
-</div>
+### 📚 Technical Contributions
+- 🎯 **IEEE Leadership**: General Manager, VIIT Student Branch
+- 📖 **Open-Source**: Comprehensive Verilog module repository
+- 🏗️ **Major Projects**: 32-bit RISC-V processor, Neural architecture exploration
+- 🌐 **Community Impact**: Technical workshops and collaborative innovation initiatives
 
 ---
 
 <div align="center">
 
-## 🌟 **"Architecting Tomorrow's Intelligence, One Transistor at a Time"** ⚡
+## 🌟 **Engineering Tomorrow's Hardware, Today** ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-**🚀 Ready to revolutionize the intersection of AI and hardware engineering!**
+**Building the future of intelligent hardware systems - one line of HDL at a time**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ApratimPhadke&icon=6&color=6)](https://github.com/ApratimPhadke)
+[![Profile Views](https://komarev.com/ghpvc/?username=ApratimPhadke&color=00D9FF&style=for-the-badge)](https://github.com/ApratimPhadke)
 
 </div>
