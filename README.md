@@ -4,8 +4,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║  BOOT LOG :: VIIT-ENTC-2027 :: ARM-CORTEX-M → RISCV → LINUX → RTL → GDS       ║
-║  [ CPU: CORTEX-A ]  [ MEM: 8.36 CGPA ]  [ IRQ: ALWAYS ON ]  [ STATUS: ACTIVE ] ║
+║  BOOT LOG :: VIIT-ENTC-2027 :: ARM-CORTEX-M → RISCV → LINUX → RTL → GDS          ║
+║  [ CPU: CORTEX-A ]  [ MEM: 8.36 CGPA ]  [ IRQ: ALWAYS ON ]  [ STATUS: ACTIVE ]   ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
