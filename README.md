@@ -1,4 +1,4 @@
-
+<html>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&display=swap');
   *{box-sizing:border-box;margin:0;padding:0}
@@ -241,3 +241,4 @@ const obs = new IntersectionObserver((entries) => {
 const sg = document.getElementById('skillGrid');
 if(sg) obs.observe(sg);
 </script>
+</html>
