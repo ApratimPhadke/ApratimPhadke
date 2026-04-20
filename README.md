@@ -10,7 +10,7 @@
 ```
 
 # `APRATIM PHADKE`
-### Embedded Systems Engineer · VLSI Designer · Processor Architect
+### Embedded Systems · VLSI · Processor Architect
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00D97E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=%24+probe+--target+apratim+--depth+full;%3E+RTL+%7C+Embedded+Linux+%7C+Processor+Arch+%7C+FPGA+%7C+Bare-Metal+C)](https://git.io/typing-svg)
 
