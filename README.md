@@ -2,12 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=4&section=header"/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  BOOT LOG :: VIIT-ENTC-2027 :: ARM-CORTEX-M → RISCV → LINUX → RTL → GDS          ║
-║  [ CPU: CORTEX-A ]  [ MEM: 8.36 CGPA ]  [ IRQ: ALWAYS ON ]  [ STATUS: ACTIVE ]   ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+
 
 # `APRATIM PHADKE`
 ### Embedded Systems · VLSI · Processor Architect
