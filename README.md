@@ -1,199 +1,269 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Apratim%20Phadke&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=I%20build%20things%20that%20run%20on%20bare%20metal.&descAlignY=60&descSize=18"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=4&section=header"/>
-
-
-
-# `APRATIM PHADKE`
-### Embedded Systems · VLSI · Processor Architect
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00D97E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=%24+probe+--target+apratim+--depth+full;%3E+RTL+%7C+Embedded+Linux+%7C+Processor+Arch+%7C+FPGA+%7C+Bare-Metal+C)](https://git.io/typing-svg)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apratim_Phadke-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apratim-phadke-966816223/)
-[![Email](https://img.shields.io/badge/Email-apratimphadkeprime%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:apratimphadkeprime@gmail.com)
-[![IEEE](https://img.shields.io/badge/IEEE-General_Manager_VIIT-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieee.org)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;VLSI+%2B+RTL+Design+Architect+%E2%9A%A1;RISC-V+Processor+Designer+%F0%9F%A7%A0;Bare-Metal+C+%7C+Embedded+Linux+%F0%9F%90%A7;Silicon+to+Software%2C+Full+Stack+%F0%9F%94%8C)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> whoami`
+<img align="right" alt="Hardware Hacker" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```verilog
-module apratim_phadke #(
-    parameter INSTITUTION = "VIIT Pune — B.Tech ENTC — 2023→2027",
-    parameter CGPA        = 8.36,
-    parameter DOMAIN      = "Embedded Linux | VLSI | RTL | Computer Architecture"
-)(
-    input  wire        curiosity,
-    input  wire        hardware_instinct,
-    output reg  [63:0] production_systems,
-    output reg         papers_in_prep
-);
+### 🧠 Who Am I?
 
-localparam STACK = "Transistors → RTL → Firmware → Linux Userspace";
+```yaml
+name: Apratim Phadke
+based_in: Pune, India 🇮🇳
+university: VIIT Pune — B.Tech ENTC
+cgpa: 8.36 / 10
 
-always @(posedge clk) begin
-    if (curiosity & hardware_instinct) begin
-        production_systems <= build_debug_iterate();
-        papers_in_prep     <= 1'b1;   // RONAN — VIIT Pune 2026
-    end
-end
+i_live_at_the_intersection_of:
+  - Silicon & Software
+  - RTL & Real Hardware
+  - Firmware & Linux Kernel
 
-endmodule
+currently:
+  building: RONAN — RISC-V Processor (IEEE paper)
+  learning: Advanced Microarchitecture
+  leading: IEEE VIIT Student Branch (GM)
+  
+ask_me_about:
+  - STM32 bare-metal wizardry
+  - RISC-V processor design
+  - GStreamer on embedded Linux
+  - Making constrained SoCs perform
 ```
 
-I live at the intersection of **silicon and software** — equally comfortable writing SystemVerilog that hits timing closure and debugging a kernel-layer SoC bottleneck with GDB. I care about the full stack: from register-level bare-metal C on ARM Cortex-M, through embedded Linux user/kernel space, up to RTL design and physical implementation with OpenROAD + Sky130. Engineering isn't a career path to me — it's how I think.
+<br clear="right"/>
 
 ---
 
-## `> cat /proc/skills`
+## ⚡ What Makes Me Different
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                         TECHNICAL CAPABILITY REGISTER                       │
-├──────────────────────────────────┬──────────────────────────────────────────┤
-│  DOMAIN                          │  STACK                                   │
-├──────────────────────────────────┼──────────────────────────────────────────┤
-│  RTL & HDL                       │  SystemVerilog · Verilog · VHDL          │
-│  EDA / Physical Design           │  OpenROAD · Yosys · Magic · KLayout      │
-│  FPGA                            │  Xilinx Vivado · Quartus · Vicharak      │
-│  Embedded Linux                  │  User-space · Kernel-space · GDB         │
-│  Bare-Metal Firmware             │  STM32 (F1/F4/L0/C0) · ARM Cortex-M     │
-│  Processor Architecture          │  RISC-V ISA · Pipeline · Branch Pred.    │
-│  Programming                     │  C · C++ · Python · Assembly · TCL       │
-│  Verification                    │  Cocotb · Verilator · GTKWave            │
-│  Protocols                       │  UART · SPI · I2C · APB · CAN · ONVIF   │
-│  Build & Debug                   │  GDB · Make · Linker Scripts · ELF       │
-│  Simulation                      │  MATLAB/Simulink · Simscape · ModelSim   │
-└──────────────────────────────────┴──────────────────────────────────────────┘
-```
+> Most engineers pick a layer and stay there.
+> I own the entire stack — transistors to userspace.
 
-**RTL & VLSI**
+<div align="center">
 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-★★★★★-FF6B35?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-★★★★★-FF6B35?style=flat-square)
-![OpenROAD](https://img.shields.io/badge/OpenROAD-★★★★☆-FF9800?style=flat-square)
-![Yosys](https://img.shields.io/badge/Yosys-★★★★☆-FF9800?style=flat-square)
-![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-★★★★☆-FF9800?style=flat-square)
-![Xilinx Vivado](https://img.shields.io/badge/Vivado-★★★★☆-E31837?style=flat-square)
+| 🔬 I've designed | 🛠️ I've shipped | 🔥 I've debugged |
+|:---:|:---:|:---:|
+| A RISC-V processor from scratch | A bare-metal UART bootloader with zero HAL | A DRM master lock at kernel-space |
+| Branch predictor @ 99.89% accuracy | An ELF parser in pure C, no libraries | ARP conflicts on embedded SoCs via tcpdump |
+| APB SoC with UART + I2C on FPGA | Real-time telemetry daemons on aarch64 | GStreamer pipelines with no VPU — and won |
 
-**Embedded & Systems**
-
-![C](https://img.shields.io/badge/C_Bare_Metal-★★★★★-00D97E?style=flat-square)
-![STM32](https://img.shields.io/badge/STM32-★★★★★-03234B?style=flat-square&labelColor=03234B&color=00D97E)
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-★★★★☆-58A6FF?style=flat-square)
-![GDB](https://img.shields.io/badge/GDB-★★★★☆-58A6FF?style=flat-square)
-![RISC-V](https://img.shields.io/badge/RISC--V_Assembly-★★★★☆-BC8CFF?style=flat-square)
-![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=flat-square)
+</div>
 
 ---
 
-## `> ls -la ~/experience/`
+## 🚀 Highlight Reel
 
-### 🏭 Industry Sponsored Project — IFM Electronic
-**Embedded Linux Platform Validation & Systems Software**
-
-`CODESYS` `Python` `Shell Scripting` `ONVIF` `GDB` `GStreamer` `Plotly/Dash` `aarch64`
+<details>
+<summary><b>⚡ RONAN — Neural-Inspired RISC-V Processor (click to expand)</b></summary>
+<br>
 
 ```
-[PLATFORM]  ifm CR1204 HMI — aarch64 — resource-constrained embedded Linux SoC
-[PERIOD]    2024 – 2025
-[OUTCOME]   Production deployment parameters defined via systematic KPI profiling
+Not a tutorial. Not a clone. An original architecture.
+
+┌─────────────────────────────────────────────────────────────────┐
+│  Metric              │ Baseline   │ Perceptron  │ TAGE+Perc     │
+│──────────────────────┼────────────┼─────────────┼───────────────│
+│  Branch Accuracy     │ ~50%       │ 99.89% 🔥   │ 95.62%        │
+│  IPC                 │ 0.508      │ 0.999  🚀   │ —             │
+│  GHR Width           │ —          │ 48-bit      │ 48-bit        │
+│  Workloads Validated │ —          │ 5 patterns  │ 8 structured  │
+└─────────────────────────────────────────────────────────────────┘
+
+Stack: SystemVerilog · Cocotb · Verilator · Python
+Paper: Manuscript in prep → IEEE Conference 2026
 ```
 
-- Deployed and profiled a camera streaming stack, instrumenting **CPU utilization, memory footprint, data throughput, and sustained FPS** across a codec×resolution matrix — results became production deployment parameters
-- Designed a closed-loop **Adaptive Bitrate (ABR) controller** in CODESYS interfacing via ONVIF protocol; modular function blocks for stream management, KPI overlay, and resource monitoring on a constrained runtime
-- Executed multi-layer **hardware-software co-debug** across firmware, CODESYS runtime, and Linux kernel to isolate SoC bottlenecks using GDB and shell diagnostics
-- Shipped a **real-time Plotly/Dash performance dashboard** automating the full validation pipeline — surfacing bottlenecks and defining platform performance envelopes
+</details>
 
----
+<details>
+<summary><b>🐧 IFM Electronic — Industry Project (Embedded Linux, aarch64)</b></summary>
+<br>
 
-## `> ls -la ~/projects/`
+```
+Platform: IFM CR1204 HMI · aarch64 Mali400 SoC · Kernel 5.10.127
+Challenge: Dual-stream RTSP camera pipeline. No VPU. Weston broken.
 
-### ⚡ RONAN — Neural Network-Inspired Pipelined RISC-V Processor
-`SystemVerilog` `Cocotb` `Verilator` `Python`
+What I did:
+  ✅ Released DRM master lock manually → routed GStreamer to /dev/fb0
+  ✅ Resolved ARP IP conflict via tcpdump → engineered stable pipeline
+  ✅ Drove CPU from saturation → 22.6% across 4 ARM cores
+  ✅ Built telemetry daemon: /proc/stat + /sys/class/net @ 1s intervals
+  ✅ Pandas-validated: ΔCPU = 0.26%, RAM stable at ~343 MB
 
-> 📄 *A. Phadke et al., "RONAN: A Neural Network-Inspired Pipelined RISC-V Processor with Perceptron-Based Branch Prediction," manuscript in preparation, VIIT Pune, 2026.*
+These numbers became the production deployment parameters.
+```
 
-| Metric | Baseline | RONAN (Neural) | RONAN (Hybrid) |
-|---|---|---|---|
-| Branch Pred. Accuracy | Static / ~50% | **99.89%** | **95.62%** post-warmup |
-| IPC | 0.508 | **0.999** | — |
-| Predictor | None | Perceptron | TAGE (40.1%) + Perceptron (59.9%) |
-| GHR Width | — | 48-bit | 48-bit |
-| Workloads validated | — | 5 patterns | 8 structured |
+</details>
 
-- Designed a **quad-core RISC-V processor** in SystemVerilog with perceptron-based dynamic branch prediction — validated across alternating, pointer-chase, loop-exit, and bimodal workloads
-- Implemented a **hybrid TAGE+Perceptron predictor**: TAGE covers structured patterns, perceptron captures long-history correlations — architecture analogous to branch prediction units in production GPU compiler backends
-- Built **parameterized Cocotb/Verilator testbenches** for perceptron table, GHR, and jog-packet unit — full RTL verification methodology from stimulus to scoreboard
-
----
-
-### 🔧 MCU Visualizer — Custom ELF-Based Firmware Debug Toolchain
-`C` `Qt` `Python` `Arduino` `ESP32`
+<details>
+<summary><b>🔧 MCU Visualizer — Custom ELF Debug Toolchain</b></summary>
+<br>
 
 ```c
-// What GDB doesn't show you — live firmware introspection, on-target
+// What GDB doesn't show you.
+// Live firmware introspection. On target. Zero dependencies.
+
 struct elf_inspector {
     section_t  regions[];    // .text / .data / .bss / stack / heap
     reg_file_t register_state;
     insn_t     active_instruction;
-    bool       bare_metal;   // No library dependency. Pure C ELF parser.
+    bool       bare_metal;   // Pure C ELF parser. No libraries.
 };
+
+// Full Qt GUI. Deployed on a live autonomous ESP32 robot.
 ```
 
-- Built an autonomous embedded robot on **Arduino UNO + ESP32** with real-time motor and sensor control over a custom wireless protocol — full hardware-software stack ownership
-- Developed **MCU Visualizer**: real-time ELF binary parsing to decode active instructions, map memory regions, and visualize register state on-target — directly applicable to BSP bringup and post-silicon debug
-- Implemented the **ELF parsing engine in bare-metal C** (zero library dependency); migrated full GUI toolchain to **C + Qt** for live firmware introspection and on-target optimization
+</details>
+
+<details>
+<summary><b>🔌 UART Bootloader — Zero HAL, Pure Registers</b></summary>
+<br>
+
+```
+STM32F4 · Bare-Metal C · USART1 @ 115200 baud
+
+→ 64-byte framed packets with checksum verification
+→ Flash erase + word-aligned write from 0x08004000
+→ Validated stack-pointer/reset-vector jump to application
+→ 5-second timeout fallback
+→ Not a library in sight. Just registers.
+```
+
+</details>
 
 ---
 
-## `> iostat github`
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ApratimPhadke&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Commit+Register" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ApratimPhadke&theme=chartreuse-dark&hide_border=true&fire=FF6B35&ring=00D97E&currStreakLabel=00D97E" />
+### Core Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B35?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/RISC--V_ASM-007AAC?style=for-the-badge&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ApratimPhadke&theme=chartreuse-dark&hide_border=true&area=true&custom_title=Activity+Trace" />
+### Embedded & Hardware
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### VLSI & EDA Tools
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E31837?style=for-the-badge&logoColor=white)
+![OpenROAD](https://img.shields.io/badge/OpenROAD-4A90D9?style=for-the-badge&logoColor=white)
+![Yosys](https://img.shields.io/badge/Yosys-00B388?style=for-the-badge&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-E60012?style=for-the-badge&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-007DB8?style=for-the-badge&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logoColor=white)
+
+### Protocols
+![UART](https://img.shields.io/badge/UART-555?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-555?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I²C-555?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN_Bus-555?style=for-the-badge)
+![APB](https://img.shields.io/badge/AMBA_APB-555?style=for-the-badge)
 
 </div>
 
 ---
 
-## `> dmesg | tail`
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApratimPhadke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApratimPhadke&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApratimPhadke&theme=tokyonight&hide_border=true" alt="streak"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+> ⚠️ **To activate the snake:** Go to your repo → **Actions** tab → create `.github/workflows/snake.yml` with the Platane/snk action. It auto-runs daily via cron and generates the SVG into the `output` branch.
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ApratimPhadke&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApratimPhadke&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🎓 Certifications
 
 ```
-[  0.000001] Apratim Phadke initialised — VIIT Pune, ENTC
-[  0.000042] Loaded: Computer Architecture, ISA Design, Compiler Infrastructure
-[  0.000089] Loaded: Processor Microarchitecture, Systems Programming
-[  0.000134] Loaded: Embedded Linux (user + kernel), FPGA, Bare-Metal STM32
-[  0.000201] Loaded: RTL Design, Physical Implementation, OpenROAD, Sky130 PDK
-[  0.000267] IFM Electronic — industry project — platform validation COMPLETE
-[  0.000334] RONAN v2 — hybrid TAGE+Perceptron — 95.62% acc — paper in prep
-[  0.000401] MCU Visualizer — ELF parser — bare-metal C — Qt GUI — shipped
-[  0.000468] IEEE VIIT GM — ICBDS 2024 coordinated — workshops delivered
-[  0.000512] STATUS: kernel panic? No. Actively building. IRQ pending.
+🔴  ARM Cortex (STM32) Deep Dive: Mastering Embedded Systems    — EDUCBA       2025
+🔴  ARM Cortex (STM32) Fundamentals: Building Embedded Systems  — EDUCBA       2025
+🔴  Embedded Systems using C                                    — EDUCBA       2025
+🟠  Introduction to Microprocessors                             — ARM          2025
+🟡  Introduction to Chip Design w/ Open-Source EDA Tools        — Coursera     2025
+🟡  VLSI Chip Design with Electric VLSI EDA Tool                — L&T EduTech  2025
+🟡  Fundamentals of Digital Design for VLSI                     — L&T EduTech  2025
+🟢  Using Git for Distributed Development                       — Linux Fdn    2025
+🟢  Modeling and Simulation with Simulink                       — MathWorks    2025
 ```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apratim_Phadke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apratim-phadke-966816223/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-apratimphadkeprime@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apratimphadkeprime@gmail.com)
+&nbsp;
+[![IEEE](https://img.shields.io/badge/IEEE_VIIT-General_Manager-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ApratimPhadke&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║           "If it doesn't run on bare metal, it isn't real yet."                ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║   "If it doesn't run on bare metal — it isn't real."    ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apratim-phadke-966816223/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apratimphadkeprime@gmail.com)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ApratimPhadke&color=00D97E&style=flat-square&label=profile+probes)](https://github.com/ApratimPhadke)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=4&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
