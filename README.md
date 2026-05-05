@@ -211,19 +211,6 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 
 ---
 
-## 🎓 Certifications
-
-```
-🔴  ARM Cortex (STM32) Deep Dive: Mastering Embedded Systems    — EDUCBA       2025
-🔴  ARM Cortex (STM32) Fundamentals: Building Embedded Systems  — EDUCBA       2025
-🔴  Embedded Systems using C                                    — EDUCBA       2025
-🟠  Introduction to Microprocessors                             — ARM          2025
-🟡  Introduction to Chip Design w/ Open-Source EDA Tools        — Coursera     2025
-🟡  VLSI Chip Design with Electric VLSI EDA Tool                — L&T EduTech  2025
-🟡  Fundamentals of Digital Design for VLSI                     — L&T EduTech  2025
-🟢  Using Git for Distributed Development                       — Linux Fdn    2025
-🟢  Modeling and Simulation with Simulink                       — MathWorks    2025
-```
 
 ---
 
