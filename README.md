@@ -248,9 +248,6 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   "If it doesn't run on bare metal — it isn't real."    ║
-╚══════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
