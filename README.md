@@ -311,19 +311,6 @@ Other          ░░░░░░░░░░░░░░░░░░░   1.3%
 
 </div>
 
----
-
-## 🔊 Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-apratim.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
-> **Setup:** Deploy [novatorem](https://github.com/novatorem/novatorem) to show your live Spotify status.
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
