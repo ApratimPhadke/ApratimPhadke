@@ -140,6 +140,51 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 
 ---
 
+## 🌊 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-snake.svg" />
+  </picture>
+</div>
+
+> **Setup:** Add a GitHub Actions workflow (`.github/workflows/snake.yml`) to auto-generate the snake animation from your contribution graph.
+
+<details>
+<summary><b>📋 Snake Workflow (click to copy)</b></summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ApratimPhadke
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -179,6 +224,23 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 
 ---
 
+## 🧩 Skill Proficiency
+
+<div align="center">
+
+```
+Bare-Metal C         ████████████████████  98%
+SystemVerilog/RTL    ██████████████████░░  90%
+Embedded Linux       █████████████████░░░  85%
+RISC-V Architecture  ████████████████░░░░  80%
+Python / Scripting   ██████████████░░░░░░  72%
+FPGA Toolchain       █████████████░░░░░░░  67%
+```
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -192,6 +254,19 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 
 ---
 
+## 📅 Weekly Dev Breakdown
+
+<!--START_SECTION:waka-->
+```text
+C              ██████████████░░░░░  72.4%
+SystemVerilog  ████░░░░░░░░░░░░░░░  18.9%
+Python         █░░░░░░░░░░░░░░░░░░   5.3%
+Shell          ░░░░░░░░░░░░░░░░░░░   2.1%
+Other          ░░░░░░░░░░░░░░░░░░░   1.3%
+```
+<!--END_SECTION:waka-->
+
+> **Setup:** Connect [WakaTime](https://wakatime.com) to auto-update this block via GitHub Actions using [`waka-readme`](https://github.com/athul/waka-readme).
 
 ---
 
@@ -211,6 +286,42 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 
 ---
 
+## 🎯 2025–2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|:---|:---:|
+| 📄 Publish RONAN IEEE paper | 🔄 In Progress |
+| 🧠 Tape out RONAN on Sky130 PDK (OpenROAD) | 🔜 Planned |
+| 🐧 Upstream a kernel patch (Linux mainline) | 🔜 Planned |
+| ⚡ Complete out-of-order execution pipeline | 🔄 In Progress |
+| 🏆 Present at a technical conference | 🔜 Planned |
+| 🔗 Complete CAN Bus gateway project | ✅ Ongoing |
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🔊 Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-apratim.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+> **Setup:** Deploy [novatorem](https://github.com/novatorem/novatorem) to show your live Spotify status.
+
+</div>
 
 ---
 
@@ -235,6 +346,7 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 <div align="center">
 
 ```
+If it runs on bare metal, I've probably broken it — and fixed it at 2 AM.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
