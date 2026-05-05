@@ -192,17 +192,6 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-> ⚠️ **To activate the snake:** Go to your repo → **Actions** tab → create `.github/workflows/snake.yml` with the Platane/snk action. It auto-runs daily via cron and generates the SVG into the `output` branch.
 
 ---
 
