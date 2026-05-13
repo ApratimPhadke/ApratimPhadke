@@ -245,24 +245,7 @@ Other          ░░░░░░░░░░░░░░░░░░░   1.3%
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApratimPhadke&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
----
 
-## 🎯 2025–2026 Goals
-
-<div align="center">
-
-| Goal | Status |
-|:---|:---:|
-| 📄 Publish RONAN IEEE paper | 🔄 In Progress |
-| 🧠 Tape out RONAN on Sky130 PDK (OpenROAD) | 🔜 Planned |
-| 🐧 Upstream a kernel patch (Linux mainline) | 🔜 Planned |
-| ⚡ Complete out-of-order execution pipeline | 🔄 In Progress |
-| 🏆 Present at a technical conference | 🔜 Planned |
-| 🔗 Complete CAN Bus gateway project | ✅ Ongoing |
-
-</div>
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-contribution-grid-snake.svg" />
 </p>
