@@ -1,11 +1,3 @@
-
-<a href="https://komarev.com/ghpvc/?username=gmostofabd">
-  <img align="right" src="https://komarev.com/ghpvc/?username=gmostofabd&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
-</a> 
-
-![MK_51S_Simu_1](https://github.com/user-attachments/assets/cb24ba0b-56c8-432a-b949-bd34c3f8d6af)
-
-<hr/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Apratim%20Phadke&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Embedded%20Systems%20%7C%20RTL%20Design%20%7C%20Embedded%20Linux&descAlignY=60&descSize=18"/>
 </div>
@@ -18,6 +10,14 @@
 
 
 <img align="right" alt="Hardware Hacker" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<a href="https://komarev.com/ghpvc/?username=gmostofabd">
+  <img align="right" src="https://komarev.com/ghpvc/?username=gmostofabd&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
+</a> 
+
+![MK_51S_Simu_1](https://github.com/user-attachments/assets/cb24ba0b-56c8-432a-b949-bd34c3f8d6af)
+
+<hr/>
 
 ### 🧠 About Me
 
