@@ -269,13 +269,13 @@ Other          ░░░░░░░░░░░░░░░░░░░   1.3%
   <img src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 💬 Random Dev Quote
+<!--## 💬 Random Dev Quote
 
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
+</div>-->
 
 ---
 
