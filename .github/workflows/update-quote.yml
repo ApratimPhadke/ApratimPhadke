@@ -1,0 +1,57 @@
+name: Update Quote
+
+on:
+  schedule:
+    # Runs every 4 hours
+    - cron: "0 */4 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Daily Commit Target
+        run: |
+          DAY=$(date +%d)
+
+          if (( DAY % 2 == 0 )); then
+            echo "TARGET=2" >> $GITHUB_ENV
+          else
+            echo "TARGET=3" >> $GITHUB_ENV
+          fi
+
+      - name: Count Today's Automated Commits
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+
+          COUNT=$(git log \
+            --since="$TODAY 00:00" \
+            --author="ApratimPhadke" \
+            --oneline | wc -l)
+
+          echo "COUNT=$COUNT" >> $GITHUB_ENV
+
+      - name: Update Quote Widget
+        if: env.COUNT < env.TARGET
+        run: |
+          python scripts/update_quote.py
+
+      - name: Commit and Push Changes
+        if: env.COUNT < env.TARGET
+        run: |
+          git config --global user.name "ApratimPhadke"
+          git config --global user.email "apratimphadkeprime@gmail.com"
+
+          git add README.md
+
+          git commit -m "docs: update README quote widget" || exit 0
+
+          git push
