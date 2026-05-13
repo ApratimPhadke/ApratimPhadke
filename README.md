@@ -249,8 +249,6 @@ Other          ░░░░░░░░░░░░░░░░░░░   1.3%
 
 <!--END_SECTION:waka-->
 
-> **Setup:** Connect [WakaTime](https://wakatime.com) to auto-update this block via GitHub Actions using [`waka-readme`](https://github.com/athul/waka-readme).
-
 ---
 
 ## 🏆 Trophy Case
