@@ -299,10 +299,9 @@ Other          ░░░░░░░░░░░░░░░░░░░   1.3%
 
 <div align="center">
 
-```text
 Focused on low-level systems, hardware-software integration,
 and architecture-driven embedded development.
-```
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
