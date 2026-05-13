@@ -145,52 +145,6 @@ STM32F4 · Bare-Metal C · USART1 @ 115200 baud
 
 </details>
 
----
-
-## 🌊 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ApratimPhadke/ApratimPhadke/output/github-snake.svg" />
-  </picture>
-</div>
-
-> **Setup:** Add a GitHub Actions workflow (`.github/workflows/snake.yml`) to auto-generate the snake animation from your contribution graph.
-
-<details>
-<summary><b>📋 Snake Workflow (click to copy)</b></summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ApratimPhadke
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
 
 ## 🛠️ Tech Arsenal
 
