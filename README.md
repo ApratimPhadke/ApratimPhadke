@@ -1,4 +1,4 @@
-````md
+
 <a href="https://komarev.com/ghpvc/?username=gmostofabd">
   <img align="right" src="https://komarev.com/ghpvc/?username=gmostofabd&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
 </a> 
@@ -16,7 +16,6 @@
 
 </div>
 
----
 
 <img align="right" alt="Hardware Hacker" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
