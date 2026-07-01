@@ -280,7 +280,7 @@ Other          ░░░░░░░░░░░░░░░░░░░   1.3%
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cachebuster=149190)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cachebuster=639172)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
